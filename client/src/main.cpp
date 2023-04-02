@@ -17,5 +17,3 @@ int main()
 		exit(1);
 	}
 }
-
-
