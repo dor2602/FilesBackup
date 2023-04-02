@@ -1,6 +1,7 @@
 #include "ClientLogic.h"
 #include <iostream>
-//
+
+/* creating an instance of client class and call to clientMain method to run the client in batch mode */
 int main()
 {
 	try
